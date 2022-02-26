@@ -1,5 +1,5 @@
 ---
-name: 'Acceptance Criteria: '
+name: 'Acceptance Criteria '
 about: Acceptance Criteria template
 title: 'Acceptance Criteria: <TITLE>'
 labels: ''
